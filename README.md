@@ -10,8 +10,7 @@ This project builds a powerful medical chatbot using Meta's LLaMA 2 model. It in
 
 Key features include:  
 - Answering medical-related queries with context  
-- Local inference using quantized LLaMA 2  
-- Fast and private — no cloud inference required  
+- Local inference using quantized LLaMA 2    
 - Flask-based minimal frontend  
 - Easy setup with Conda and environment variables  
 
