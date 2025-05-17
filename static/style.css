@@ -224,19 +224,24 @@ border-radius: 0 0 15px 15px !important;
 body, html {
     height: 100%;
     margin: 0;
-    background: linear-gradient(to right, #B7B1F2, #FFDCCC, #FBF3B9);
+    background: linear-gradient(to right, #b4aee5, #FFDCCC, #d7d2a5);
     font-family: 'Arial', sans-serif;
   }
   
   .chat {
     margin-top: auto;
     margin-bottom: auto;
+    
   }
+
+  send_btn {
+    padding: 5px 10px; /* Optional: Adjust the button's padding */
+}
   
   .card {
     height: 500px;
     border-radius: 15px !important;
-    background-color: rgba(251, 243, 185, 0.8) !important;
+    background-color: rgba(233, 229, 196, 0.8) !important;
   }
   
   .contacts_body {
@@ -252,7 +257,7 @@ body, html {
   .card-header {
     border-radius: 15px 15px 0 0 !important;
     border-bottom: 0 !important;
-    background-color: #FDB7EA !important;
+    background-color: #aaaceb !important;
     color: #2C2F3B;
   }
   
@@ -267,7 +272,7 @@ body, html {
   }
   
   .search, .type_msg {
-    background-color: rgba(212, 186, 174, 0.8) !important;
+    background-color: rgba(227, 199, 185, 0.8) !important;
     border: 0 !important;
     color: #2C2F3B !important;
     height: 50px !important;
@@ -281,11 +286,12 @@ body, html {
   }
   
   .attach_btn, .send_btn, .search_btn {
-    background-color: #B7B1F2 !important;
+    background-color: #9289de !important;
     border: 0 !important;
     color: #2C2F3B !important;
     cursor: pointer;
     border-radius: 10px !important;
+    margin-left: 10px;
   }
   
   .contacts {

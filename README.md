@@ -1,4 +1,4 @@
-# 🩺 Medical Advice Chatbot - GenAI (LLaMA2)
+# 🩺 Medical Advice Chatbot - GenAI 
 
 > An end-to-end AI chatbot for answering medical queries using LLaMA 2, LangChain, Pinecone, and Flask.
 
@@ -119,7 +119,7 @@ medical-chatbot/
 ## 🧑‍💻 Author  
 
 - **N. Harintharan**  
-- GitHub: [@yourusername](https://github.com/Harintharan)  
+- GitHub: [@Harintharan](https://github.com/Harintharan)  
 - Email: nharintharan@gmail.com  
 
 ---
